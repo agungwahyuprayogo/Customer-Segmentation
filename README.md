@@ -186,7 +186,7 @@ There are 7 customer segmentation based on RFM : Loyal Customers, Big Spenders, 
 * Lastly for **2014**, the number of items purchased tends to **increase** every month, in **February to March** there is a sharp increase to **almost 2 times**. In September there is a sharp increase in the new school year. In the following month, based on BLS the CPI was an increase, so that **October, there was a sharp decline**. However, in November **November there was a high increase** in the number of items purchased even **higher than in September** due to Black Friday and again **slightly decreased** sales in **December**
 
 
-4. Based on **results of modeling** customer segmentation **using RFM**, the company's customers are divided into 7 segments, namely **Best Customers, Loyal Customers, Big Spenders, Lost Cheap Customers, and Almost Lost**.
+* Based on **results of modeling** customer segmentation **using RFM**, the company's customers are divided into 7 segments, namely **Best Customers, Loyal Customers, Big Spenders, Lost Cheap Customers, and Almost Lost**.
 
 * A total of 30 customers with a percentage of **3.78% of the total customers**, entered the **Best Customer** segment. Customers in this segment have recently purchased goods from the company, have the most shopping frequency, and have the most total purchases than other segments.A total of **16.27% of the total customers** (with a total of 129 of 793  customers) are included in **Loyal Customers** where this segment's customers have the most shopping frequency than other segments. Furthermore, **15.76% of the total customers** (with a total of 125 of 793 customers) in the company entered the **Big Spenders** segment. This segment has the highest total purchases than any other segment.
 
